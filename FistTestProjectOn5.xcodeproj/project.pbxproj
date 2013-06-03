@@ -17,12 +17,16 @@
 		8C1025DF161BCCE400FC912F /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C1025DE161BCCE400FC912F /* Default@2x.png */; };
 		8C1025E1161BCCE400FC912F /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C1025E0161BCCE400FC912F /* Default-568h@2x.png */; };
 		8C1025E4161BCCE400FC912F /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C1025E2161BCCE400FC912F /* MainStoryboard.storyboard */; };
-		8C1025E7161BCCE400FC912F /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C1025E6161BCCE400FC912F /* FirstViewController.m */; };
 		8C1025E9161BCCE400FC912F /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C1025E8161BCCE400FC912F /* first.png */; };
 		8C1025EB161BCCE400FC912F /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C1025EA161BCCE400FC912F /* first@2x.png */; };
 		8C1025EE161BCCE400FC912F /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C1025ED161BCCE400FC912F /* SecondViewController.m */; };
 		8C1025F0161BCCE400FC912F /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C1025EF161BCCE400FC912F /* second.png */; };
 		8C1025F2161BCCE400FC912F /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C1025F1161BCCE400FC912F /* second@2x.png */; };
+		8C1025FA161BD55B00FC912F /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C1025F9161BD55B00FC912F /* ThirdViewController.m */; };
+		8C1026101623D76700FC912F /* FirstTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C10260F1623D76700FC912F /* FirstTableViewController.m */; };
+		8C1026121623DA4E00FC912F /* mao.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 8C1026111623DA4E00FC912F /* mao.JPG */; };
+		8C1026151623DD0800FC912F /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C1026141623DD0800FC912F /* DetailViewController.m */; };
+		8CF5EF94162F94B90098127D /* ForthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8CF5EF93162F94B90098127D /* ForthViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,14 +44,21 @@
 		8C1025DE161BCCE400FC912F /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		8C1025E0161BCCE400FC912F /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		8C1025E3161BCCE400FC912F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		8C1025E5161BCCE400FC912F /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		8C1025E6161BCCE400FC912F /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		8C1025E8161BCCE400FC912F /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		8C1025EA161BCCE400FC912F /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
 		8C1025EC161BCCE400FC912F /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		8C1025ED161BCCE400FC912F /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		8C1025EF161BCCE400FC912F /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		8C1025F1161BCCE400FC912F /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		8C1025F8161BD55B00FC912F /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		8C1025F9161BD55B00FC912F /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		8C10260E1623D76700FC912F /* FirstTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstTableViewController.h; sourceTree = "<group>"; };
+		8C10260F1623D76700FC912F /* FirstTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstTableViewController.m; sourceTree = "<group>"; };
+		8C1026111623DA4E00FC912F /* mao.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mao.JPG; sourceTree = "<group>"; };
+		8C1026131623DD0800FC912F /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		8C1026141623DD0800FC912F /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		8CF5EF92162F94B90098127D /* ForthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ForthViewController.h; sourceTree = "<group>"; };
+		8CF5EF93162F94B90098127D /* ForthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ForthViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,15 +108,17 @@
 				8C1025D9161BCCE400FC912F /* AppDelegate.h */,
 				8C1025DA161BCCE400FC912F /* AppDelegate.m */,
 				8C1025E2161BCCE400FC912F /* MainStoryboard.storyboard */,
-				8C1025E5161BCCE400FC912F /* FirstViewController.h */,
-				8C1025E6161BCCE400FC912F /* FirstViewController.m */,
-				8C1025E8161BCCE400FC912F /* first.png */,
-				8C1025EA161BCCE400FC912F /* first@2x.png */,
+				8C1025F8161BD55B00FC912F /* ThirdViewController.h */,
+				8C1025F9161BD55B00FC912F /* ThirdViewController.m */,
 				8C1025EC161BCCE400FC912F /* SecondViewController.h */,
 				8C1025ED161BCCE400FC912F /* SecondViewController.m */,
-				8C1025EF161BCCE400FC912F /* second.png */,
-				8C1025F1161BCCE400FC912F /* second@2x.png */,
 				8C1025D1161BCCE400FC912F /* Supporting Files */,
+				8C10260E1623D76700FC912F /* FirstTableViewController.h */,
+				8C10260F1623D76700FC912F /* FirstTableViewController.m */,
+				8C1026131623DD0800FC912F /* DetailViewController.h */,
+				8C1026141623DD0800FC912F /* DetailViewController.m */,
+				8CF5EF92162F94B90098127D /* ForthViewController.h */,
+				8CF5EF93162F94B90098127D /* ForthViewController.m */,
 			);
 			path = FistTestProjectOn5;
 			sourceTree = "<group>";
@@ -120,6 +133,11 @@
 				8C1025DC161BCCE400FC912F /* Default.png */,
 				8C1025DE161BCCE400FC912F /* Default@2x.png */,
 				8C1025E0161BCCE400FC912F /* Default-568h@2x.png */,
+				8C1025F1161BCCE400FC912F /* second@2x.png */,
+				8C1025EA161BCCE400FC912F /* first@2x.png */,
+				8C1025E8161BCCE400FC912F /* first.png */,
+				8C1025EF161BCCE400FC912F /* second.png */,
+				8C1026111623DA4E00FC912F /* mao.JPG */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -184,6 +202,7 @@
 				8C1025EB161BCCE400FC912F /* first@2x.png in Resources */,
 				8C1025F0161BCCE400FC912F /* second.png in Resources */,
 				8C1025F2161BCCE400FC912F /* second@2x.png in Resources */,
+				8C1026121623DA4E00FC912F /* mao.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,8 +215,11 @@
 			files = (
 				8C1025D7161BCCE400FC912F /* main.m in Sources */,
 				8C1025DB161BCCE400FC912F /* AppDelegate.m in Sources */,
-				8C1025E7161BCCE400FC912F /* FirstViewController.m in Sources */,
 				8C1025EE161BCCE400FC912F /* SecondViewController.m in Sources */,
+				8C1025FA161BD55B00FC912F /* ThirdViewController.m in Sources */,
+				8C1026101623D76700FC912F /* FirstTableViewController.m in Sources */,
+				8C1026151623DD0800FC912F /* DetailViewController.m in Sources */,
+				8CF5EF94162F94B90098127D /* ForthViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,10 +297,14 @@
 		8C1025F6161BCCE400FC912F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: ningyu song (XBPHFFYK2H)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ningyu song (XBPHFFYK2H)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FistTestProjectOn5/FistTestProjectOn5-Prefix.pch";
 				INFOPLIST_FILE = "FistTestProjectOn5/FistTestProjectOn5-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8AD9EDEF-6CAA-40B9-88B7-8934C677FA53";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "8AD9EDEF-6CAA-40B9-88B7-8934C677FA53";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -286,10 +312,14 @@
 		8C1025F7161BCCE400FC912F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: ningyu song (XBPHFFYK2H)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: ningyu song (XBPHFFYK2H)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "FistTestProjectOn5/FistTestProjectOn5-Prefix.pch";
 				INFOPLIST_FILE = "FistTestProjectOn5/FistTestProjectOn5-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8AD9EDEF-6CAA-40B9-88B7-8934C677FA53";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "8AD9EDEF-6CAA-40B9-88B7-8934C677FA53";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -313,6 +343,7 @@
 				8C1025F7161BCCE400FC912F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
